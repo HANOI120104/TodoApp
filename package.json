@@ -1,0 +1,22 @@
+{
+    "name": "todox",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+        "start": "next start"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "lucide-react": "^0.1.0",
+        "sonner": "^0.1.0",
+        "tailwindcss": "^2.2.19",
+        "postcss": "^8.4.5",
+        "autoprefixer": "^10.4.2"
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-next": "^12.0.7"
+    }
+}
