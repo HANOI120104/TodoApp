@@ -16,7 +16,5 @@ TodoX là một ứng dụng **Todo App** giúp bạn quản lý công việc c�
 ✅ Giao diện thân thiện, phản hồi nhanh nhờ React  
 ✅ API chuẩn RESTful
 
----
 
-## 🧱 Kiến trúc tổng quan
 
